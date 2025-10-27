@@ -1,4 +1,7 @@
-# kafka-crash-course
+# kafka
+
+### Start the Kafka container using Docker Compose
+`docker-compose up -d`
 
 ### Install confluent-kafka dependency
 `pip3 install confluent-kafka`

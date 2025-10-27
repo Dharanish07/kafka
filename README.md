@@ -3,6 +3,9 @@
 ### Start the Kafka container using Docker Compose
 `docker-compose up -d`
 
+### To Start the Kafka container with the UI
+`docker compose -f kafka-ui.yaml up -d`
+
 ### Install confluent-kafka dependency
 `pip3 install confluent-kafka`
 
